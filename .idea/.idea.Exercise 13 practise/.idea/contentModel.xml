@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\USER\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\USER\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_Exercise 13 practise.87762025.00" t="ExcludeRecursive" />
+    <e p="D:\unity\Exercise 13 practise" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="scripts" t="Include">
+          <e p="BallController.cs" t="Include" />
+          <e p="Block.cs" t="Include" />
+          <e p="BlockSetting.cs" t="Include" />
+          <e p="Bouncer.cs" t="Include" />
+          <e p="ConfigurationData.cs" t="Include" />
+          <e p="ConfigurationUtils.cs" t="Include" />
+          <e p="GameInitializer.cs" t="Include" />
+          <e p="PaddleController.cs" t="Include" />
+          <e p="ScreenUtils.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Exercise 13 practise.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

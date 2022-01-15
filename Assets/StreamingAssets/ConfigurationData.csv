@@ -1,0 +1,2 @@
+BallImpulseForce,PaddleMoveUnitsPerSecond,BallLifetimeSeconds,BallSpwanMinDelay,BallSpawnMaxDelay,TotalNumberOfBalls,PointPerStandardBlock,PointsPerBonusBlock,PointPerFreezerBlock,PointsPerSpeederBlock
+2,15,45,20,25,4,1,2,5,5
